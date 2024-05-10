@@ -1,0 +1,22 @@
+:root {
+    --azul-oscuro: #1e5d8c;
+    --azul-medio: #3e92cc; 
+    --azul-claro: #8cc0e7; 
+    --azul-palido: #d3eafd; 
+    --azul-acento: #007bff; 
+
+    --tamano-encabezado: 24px;
+    --tamano-parrafo: 16px;
+
+    --fuente-principal: 'Roboto', sans-serif; 
+    --fuente-titulos: 'Montserrat', sans-serif; 
+    --fuente-texto: 'Open Sans', sans-serif; 
+
+  }
+  *{
+    font-family: var(--fuente-principal);
+}
+
+
+
+
